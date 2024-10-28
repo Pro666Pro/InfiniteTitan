@@ -36,6 +36,6 @@ wait(0.15)
 
 game:GetService("ReplicatedStorage"):WaitForChild("Rockmode"):FireServer()
 
-wait(2)
+wait(1.5)
 
 game:GetService("ReplicatedStorage"):WaitForChild("DeactivateRockmode"):FireServer()
